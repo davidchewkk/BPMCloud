@@ -1,0 +1,9 @@
+C:\Users\BPM David\OneDrive\Documents\SourceCode\CSharp\TestingPrinting\TestingPrinting\bin\Debug\TestingPrinting.exe.config
+C:\Users\BPM David\OneDrive\Documents\SourceCode\CSharp\TestingPrinting\TestingPrinting\bin\Debug\TestingPrinting.exe
+C:\Users\BPM David\OneDrive\Documents\SourceCode\CSharp\TestingPrinting\TestingPrinting\bin\Debug\TestingPrinting.pdb
+C:\Users\BPM David\OneDrive\Documents\SourceCode\CSharp\TestingPrinting\TestingPrinting\obj\Debug\TestingPrinting.csproj.AssemblyReference.cache
+C:\Users\BPM David\OneDrive\Documents\SourceCode\CSharp\TestingPrinting\TestingPrinting\obj\Debug\TestingPrinting.Properties.Resources.resources
+C:\Users\BPM David\OneDrive\Documents\SourceCode\CSharp\TestingPrinting\TestingPrinting\obj\Debug\TestingPrinting.csproj.GenerateResource.cache
+C:\Users\BPM David\OneDrive\Documents\SourceCode\CSharp\TestingPrinting\TestingPrinting\obj\Debug\TestingPrinting.csproj.CoreCompileInputs.cache
+C:\Users\BPM David\OneDrive\Documents\SourceCode\CSharp\TestingPrinting\TestingPrinting\obj\Debug\TestingPrinting.exe
+C:\Users\BPM David\OneDrive\Documents\SourceCode\CSharp\TestingPrinting\TestingPrinting\obj\Debug\TestingPrinting.pdb
