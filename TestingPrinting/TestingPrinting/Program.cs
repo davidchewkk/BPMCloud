@@ -3,8 +3,7 @@ using System.Windows.Forms;
 using System.Drawing;
 using System.Drawing.Printing;
 
-public class Form1 :
-    Form
+public class Form1 : Form
 {
     private Button printButton = new Button();
     private PrintDocument printDocument1 = new PrintDocument();
